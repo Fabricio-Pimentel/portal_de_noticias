@@ -1,9 +1,43 @@
-#banner-principal {
-    background-color: lightgreen;
-    height: 100px;
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+    h1 {
+    text-align: center;
+    letter-spacing: 3px;
+    color: blue;
 }
 
-#menu-itens {
-    background-color: lightblue;
-    height: 100px;
+#logotipo {
+    text-align: center;
+}
+
+h2 {
+    padding-left: 5px;
+    color: blue;
+}
+
+h3 {
+    padding-left: 5px;
+}
+
+p {
+    padding-left: 5px;
+}
+
+#data {
+    font-size: small;
+}
+
+#pc {
+    text-align: center;
+}
+
+b {
+    color: red;
+}
+
+footer {
+    p {
+        text-align: center;
+    }
 }
